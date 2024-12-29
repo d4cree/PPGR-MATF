@@ -1,0 +1,1 @@
+3rd homework for this class, implemented algorithms that calculate the center of the cameras' matrix, the inner + outer matrix of the camera as well as how to use the DLT algorithm with onto the cameras' matrix.
